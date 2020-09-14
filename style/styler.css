@@ -1,0 +1,27 @@
+#one {
+    color: black;
+    background-color: crimson;
+    text-align: center;
+}
+#two{
+    color: dimgray;
+    text-align: right;
+    padding: 10px;
+    font-size: 13px;
+}
+#three{
+    font-size: 20px;
+    background-color: dimgray;
+}
+#four{
+    color: rgb(68, 59, 59);
+    background-color: indianred;
+    font-size: 16px;
+    padding: 10px; 
+    text-align: right;
+}
+#five{
+    font-size: 16px;
+    color: firebrick;
+
+}

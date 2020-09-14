@@ -1,0 +1,1 @@
+alert("I wish you a good day!")
